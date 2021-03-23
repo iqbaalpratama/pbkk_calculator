@@ -1,0 +1,15 @@
+E:\PBKK\PBKK_Calculator\bin\Debug\netcoreapp3.1\PBKK_Calculator.exe
+E:\PBKK\PBKK_Calculator\bin\Debug\netcoreapp3.1\PBKK_Calculator.deps.json
+E:\PBKK\PBKK_Calculator\bin\Debug\netcoreapp3.1\PBKK_Calculator.runtimeconfig.json
+E:\PBKK\PBKK_Calculator\bin\Debug\netcoreapp3.1\PBKK_Calculator.runtimeconfig.dev.json
+E:\PBKK\PBKK_Calculator\bin\Debug\netcoreapp3.1\PBKK_Calculator.dll
+E:\PBKK\PBKK_Calculator\bin\Debug\netcoreapp3.1\PBKK_Calculator.pdb
+E:\PBKK\PBKK_Calculator\obj\Debug\netcoreapp3.1\PBKK_Calculator.csprojAssemblyReference.cache
+E:\PBKK\PBKK_Calculator\obj\Debug\netcoreapp3.1\PBKK_Calculator.Form1.resources
+E:\PBKK\PBKK_Calculator\obj\Debug\netcoreapp3.1\PBKK_Calculator.csproj.GenerateResource.cache
+E:\PBKK\PBKK_Calculator\obj\Debug\netcoreapp3.1\PBKK_Calculator.AssemblyInfoInputs.cache
+E:\PBKK\PBKK_Calculator\obj\Debug\netcoreapp3.1\PBKK_Calculator.AssemblyInfo.cs
+E:\PBKK\PBKK_Calculator\obj\Debug\netcoreapp3.1\PBKK_Calculator.csproj.CoreCompileInputs.cache
+E:\PBKK\PBKK_Calculator\obj\Debug\netcoreapp3.1\PBKK_Calculator.dll
+E:\PBKK\PBKK_Calculator\obj\Debug\netcoreapp3.1\PBKK_Calculator.pdb
+E:\PBKK\PBKK_Calculator\obj\Debug\netcoreapp3.1\PBKK_Calculator.genruntimeconfig.cache
